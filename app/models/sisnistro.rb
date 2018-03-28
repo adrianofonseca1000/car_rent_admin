@@ -1,0 +1,2 @@
+class Sisnistro < ApplicationRecord
+end
